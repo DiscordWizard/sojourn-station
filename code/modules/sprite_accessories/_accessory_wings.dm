@@ -112,7 +112,7 @@
 	blend = ICON_MULTIPLY
 
 /datum/sprite_accessory/wings/Moth_royal_colorable
-	name = "Moth Wings"
+	name = "Colorable Moth Wings"
 	desc = ""
 	icon_state = "Moth_royal_colorable"
 	colored_layers = 1
@@ -122,6 +122,97 @@
 	name = "Moth Wings, With Antenna"
 	desc = ""
 	icon_state = "moth_full"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+	
+/datum/sprite_accessory/wings/moth_royal_unfluff
+	name = "Royal Moth Wings Unfluffed"
+	desc = ""
+	icon_state = "moth_royal_unfluff"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_monarch
+	name = "Monarch Moth Wings"
+	desc = ""
+	icon_state = "moth_monarch"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_red
+	name = "Red Moth Wings"
+	desc = ""
+	icon_state = "moth_red"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_gothic
+	name = "Gothic Moth Wings"
+	desc = ""
+	icon_state = "moth_gothic"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_lover
+	name = "Lover Moth Wings"
+	desc = ""
+	icon_state = "moth_lover"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_white
+	name = "White Moth Wings"
+	desc = ""
+	icon_state = "moth_white"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_burned
+	name = "Burned Moth Wings"
+	desc = ""
+	icon_state = "moth_burned"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_firewatch
+	name = "Firewatch Moth Wings"
+	desc = ""
+	icon_state = "moth_firewatch"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_deathhead
+	name = "Deathhead Moth Wings"
+	desc = ""
+	icon_state = "moth_deathhead"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_poison
+	name = "Poison Moth Wings"
+	desc = ""
+	icon_state = "moth_poison"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_ragged
+	name = "Ragged Moth Wings"
+	desc = ""
+	icon_state = "moth_ragged"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_moonfly
+	name = "Moonfly Moth Wings"
+	desc = ""
+	icon_state = "moth_moonfly"
+	colored_layers = 1
+	blend = ICON_MULTIPLY
+
+/datum/sprite_accessory/wings/moth_snowy
+	name = "Snowy Moth Wings"
+	desc = ""
+	icon_state = "moth_snowy"
 	colored_layers = 1
 	blend = ICON_MULTIPLY
 
